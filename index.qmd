@@ -1,0 +1,23 @@
+---
+title: "my1stproj"
+---
+
+---
+title: "My First Website"
+---
+
+# Hello, World!
+
+Welcome to my first Quarto website.
+
+## About this project
+
+I am learning how to create websites using RStudio, Quarto, and GitHub.
+
+## What I want to learn
+
+- Creating web pages
+- Working with data in R
+- Publishing projects online
+
+This is my first website, and I will improve it one step at a time.

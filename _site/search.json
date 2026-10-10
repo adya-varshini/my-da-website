@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My First Website",
+    "section": "",
+    "text": "Welcome to my first Quarto website.\n\n\nI am learning how to create websites using RStudio, Quarto, and GitHub.\n\n\n\n\nCreating web pages\nWorking with data in R\nPublishing projects online\n\nThis is my first website, and I will improve it one step at a time."
+  },
+  {
+    "objectID": "index.html#about-this-project",
+    "href": "index.html#about-this-project",
+    "title": "My First Website",
+    "section": "",
+    "text": "I am learning how to create websites using RStudio, Quarto, and GitHub."
+  },
+  {
+    "objectID": "index.html#what-i-want-to-learn",
+    "href": "index.html#what-i-want-to-learn",
+    "title": "My First Website",
+    "section": "",
+    "text": "Creating web pages\nWorking with data in R\nPublishing projects online\n\nThis is my first website, and I will improve it one step at a time."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
